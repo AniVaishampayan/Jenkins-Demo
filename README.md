@@ -1,2 +1,2 @@
 ﻿# Jenkin-Demo
- Student CRUD Repository
+ A student project that implements create & read functionality
