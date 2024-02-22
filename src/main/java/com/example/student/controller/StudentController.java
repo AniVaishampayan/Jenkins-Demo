@@ -31,9 +31,9 @@ public class StudentController {
         return studentRepository.save(student);
     }
     
-    @GetMapping("/{id}")
-    public Optional<Student> getStudentById(@PathVariable Long id) {
-       return studentRepository.findById(id);                
-    }
+//    @GetMapping("/{id}")
+//    public Optional<Student> getStudentById(@PathVariable Long id) {
+//       return studentRepository.findById(id);                
+//    }
    
 }
