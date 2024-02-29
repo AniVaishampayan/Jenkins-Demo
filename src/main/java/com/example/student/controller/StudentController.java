@@ -18,7 +18,7 @@ public class StudentController {
 	 
 	    @DeleteMapping("/Delete")
 	    public String deleteTest() {
-	        return "DELETE request call successfully";
+	        return 
 	    }
     
 }
